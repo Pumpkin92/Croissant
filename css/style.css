@@ -1,0 +1,19 @@
+img {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+.link {
+  padding-top: 50px;
+  text-align: center;
+}
+.container {
+  background-color: aliceblue;
+  padding: 20px 20px 20px 20px;
+  margin: 30px;
+}
+h1,
+p {
+  text-align: center;
+}
